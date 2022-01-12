@@ -1,0 +1,54 @@
+/*Selector {
+	Property: value;
+}*/
+
+
+body{
+	background-image: url(backgroundimageforhome.jpeg);
+	background-size: cover; 
+}
+
+h2{
+	color: red;
+	text-align: center; 
+	cursor: pointer;
+}
+
+p{
+	background: purple;
+	color: white;
+}
+
+a{
+	color: yellow;
+}
+
+h1{
+	text-align: center;
+	color: #D6E58E;
+
+}
+
+li{
+	list-style: none;
+	display: inline-block;
+}
+
+.love{
+	text-align: center;
+	background-color: rgba(0,255,0,0.3);
+
+}
+
+#favourite{
+	text-align: center;
+
+ }
+
+ .bye:hover{
+	text-align: center;
+	cursor: pointer;
+
+	background-color: red;
+}
+

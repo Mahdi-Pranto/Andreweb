@@ -1,0 +1,16 @@
+h1{
+	text-align: center;
+	border-style: solid;
+	border-color: red;
+	border-width: 5px;
+	width: 200px;
+	border-right-style: ridge;
+	
+
+}
+
+p{
+	text-align: center;
+	font-size: 80%;
+	font-family: 'Langar', cursive;
+}
